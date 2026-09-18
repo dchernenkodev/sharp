@@ -1,0 +1,14 @@
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/bin/Debug/net10.0/sharp
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/bin/Debug/net10.0/sharp.deps.json
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/bin/Debug/net10.0/sharp.runtimeconfig.json
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/bin/Debug/net10.0/sharp.dll
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/bin/Debug/net10.0/sharp.pdb
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.AssemblyInfoInputs.cache
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.AssemblyInfo.cs
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.csproj.CoreCompileInputs.cache
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.dll
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/refint/sharp.dll
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.pdb
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/sharp.genruntimeconfig.cache
+/Users/dmitriychernenko/RiderProjects/sharp/sharp/obj/Debug/net10.0/ref/sharp.dll
